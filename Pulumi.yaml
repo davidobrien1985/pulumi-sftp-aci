@@ -1,0 +1,3 @@
+name: pulumi-azure-ftp
+runtime: nodejs
+description: Azure FTP template
