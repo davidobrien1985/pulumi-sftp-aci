@@ -1,5 +1,5 @@
 config:
   azure:environment: public
-  pulumi-azure-ftp-dev:region: australiasoutheast
-  pulumi-azure-ftp:sftpusers:
+  pulumi-azure-ftp-dev:region: australiaeast
+  pulumi-azure-ftp-dev:sftpusers:
     secure: AAABAKWzv6Yquwh0KG8kmO6mnd2NpqTofaOctTDxZiWUYjnEsQll6IXq2g==
